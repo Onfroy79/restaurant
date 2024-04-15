@@ -37,25 +37,4 @@ buttonsFunction()
 
 
 
-/*
-buttons.forEach((chosen) => {
-  chosen.addEventListener('click', () => {
-      chosen.setAttribute('id','clicked');
-    });
-})
 
-
-function excute(){
-  if (turn==1){
-    theShit()
-  } else if (turn == 2){
-    menu()
-  } else if (turn==3){
-    contact()
-  }
-}
-
-
-excute()
-
-*/

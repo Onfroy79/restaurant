@@ -48,7 +48,7 @@ export default function theShit(){
 
     let img = document.createElement('img')
 
-    img.src = '../pics/Kidcudimanonthemoonthelegendof.jpg'
+    img.src = '/pics/Kidcudimanonthemoonthelegendof.jpg'
      
     let divArray = [h1,p1,img]
 
