@@ -17,7 +17,7 @@ export default function menu(){
     flafelP.innerText = '1. Soak chickpeas for 24 hours. Cover them in plenty of water and add baking soda to help soften them as they soak.The chickpeas will at least double in size as they soak. Drain very well.2. Make mixture. Add chickpeas, fresh herbs (parsley, cilantro, and dill), garlic, onion, and spices to food processor and pulse a little bit at a time until the mixture is finely ground. You’ll know it’s ready when the texture is more like coarse meal.'
 
     let flafelimg= document.createElement('img')
-    flafelimg.src ='/pics/download (3).jpg'
+    flafelimg.src ='src/pics/download (3).jpg'
 
     let flafelArray = [h2,flafelP,flafelimg];
 
